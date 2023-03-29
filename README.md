@@ -1,4 +1,5 @@
 # hello-mermeid-2
+```mermaid
 flowchart TD
     A[Lebaran] -->|Get THR| B([Go shopping])
     B --> C{Let me think}
@@ -7,3 +8,4 @@ flowchart TD
     C -->|One| D[Laptop]
     C -->|Two| E[iPhone]
     C -->|Three| F[fa:fa-car Car]
+```
